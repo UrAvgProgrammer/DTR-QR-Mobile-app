@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "OnlineDTR",
+  "short_name": "OnlineDTR",
+  "version": "com.example.onlinedtr",
+  "description": "Mobile app for Online DTR",
+  "author": "Jerald Talledo",
+  "icons": [],
+  "start_url": "index.html"
+}
